@@ -30,9 +30,14 @@ This command will close and merge feature branch locally into develop branch
 - push develop branch to remote respository
 
 ## Create a release branch
-- `get flow release start release_version
+- `git flow release start release_version
 
 ![git flow initialise release branch](./images/initReleaseBranch.JPG)
+
+## Finish releae branch
+- `git flow release finish release_version
+
+![git flow finish release branch](./images/finishReleaseBranch.JPG)
 
 
 
