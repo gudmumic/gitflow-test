@@ -13,6 +13,13 @@ Create a repository following the gitflow workflow
 
 ![git flow start feature branch](./images/startFeatureBranch.JPG)
 
+## Publish a feature branch and create pull request
+- git flow feature publish feature_branch`
+
+![git flow publish feature branch](./images/publishFeatureBranch.JPG)
+
+Create the pull request from the link 
+
 ## Finish a feature branch
 - git flow feature finish feature_branch`
 
