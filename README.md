@@ -8,4 +8,10 @@ Create a repository following the gitflow workflow
 
 - Push branch to remote repository
 
+## Create a feature branch
+- git flow feature start feature_branch`
+
+![git flow start feature branch](./images/startFeatureBranch.JPG)
+
+
 
