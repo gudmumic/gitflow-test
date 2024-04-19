@@ -34,7 +34,7 @@ This command will close and merge feature branch locally into develop branch
 
 ![git flow initialise release branch](./images/initReleaseBranch.JPG)
 
-## Finish releae branch
+## Finish release branch
 - `git flow release finish release_version
 
 ![git flow finish release branch](./images/finishReleaseBranch.JPG)
