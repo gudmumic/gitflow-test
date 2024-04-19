@@ -13,5 +13,16 @@ Create a repository following the gitflow workflow
 
 ![git flow start feature branch](./images/startFeatureBranch.JPG)
 
+## Finish a feature branch
+- git flow feature finish feature_branch`
+
+This command will close and merge feature branch locally into develop branch
+
+![git flow finish feature branch](./images/finishFeatureBranch.JPG)
+
+- push develop branch to remote respository
+
+
+
 
 
